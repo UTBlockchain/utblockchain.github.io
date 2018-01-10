@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>utblockchain.github.io/categories/</loc>
+    <loc>https://utblockchain.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>utblockchain.github.io/contact/</loc>
+    <loc>https://utblockchain.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>utblockchain.github.io/tags/</loc>
+    <loc>https://utblockchain.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>utblockchain.github.io/</loc>
+    <loc>https://utblockchain.github.io/</loc>
     <priority>0</priority>
   </url>
   
