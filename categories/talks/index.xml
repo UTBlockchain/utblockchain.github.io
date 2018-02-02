@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UofT Blockchain Group</title>
-    <link>https://utblockchain.github.io/</link>
-    <description>Recent content on UofT Blockchain Group</description>
+    <title>Talks on UofT Blockchain Group</title>
+    <link>https://utblockchain.github.io/categories/talks/</link>
+    <description>Recent content in Talks on UofT Blockchain Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, UT Blockchain Group; all rights reserved.</copyright>
     <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://utblockchain.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://utblockchain.github.io/categories/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>https://utblockchain.github.io/blog/2018/01/31/creating-a-new-theme/</guid>
       <description> Blockchain technology is emerging as a disruptive force in financial industry with applications growing beyond cryptocurrencies to smart-contracts, distributed ledgers, online voting, insurance, and supply chain logistics. We&amp;rsquo;d like to thank Professor Henry Kim for giving a fantastic introductory talk on the matter. Inside will be his slides and photos of the event which he has graciously provided us.
 Slides and Photos Coming Soon </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://utblockchain.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://utblockchain.github.io/contact/</guid>
-      <description> Reach out to us </description>
     </item>
     
   </channel>

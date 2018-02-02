@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, UT Blockchain Group; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://utblockchain.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Henry Kim</title>
+      <link>https://utblockchain.github.io/tags/henry-kim/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://utblockchain.github.io/tags/henry-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://utblockchain.github.io/tags/introduction/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://utblockchain.github.io/tags/introduction/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
